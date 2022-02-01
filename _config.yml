@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Iris Ferrazzo - About me"
 title_separator          : "-"
 name                     : &name "Iris"
 description              : &description "PhD student in computational linguistics at [LST](https://www.uni-saarland.de/en/department/lst.html) at Saarland University."
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Iris Ferrazzo"
   avatar           : "foto_curriculum.jpeg"
-  bio              : "PhD student in computational linguistics at Saarbrücken University"
+  bio              : "PhD student in computational linguistics at [LST](https://www.uni-saarland.de/en/department/lst.html) at Saarland University"
   location         : "Saarbrücken, Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
