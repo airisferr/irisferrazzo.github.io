@@ -20,7 +20,7 @@ Before coming to Saarbrücken, I did my Bachelor's and Master's of Arts at the U
 
 With a scholarship of the [Studienstiftung des Deutschen Volkes](https://www.studienstiftung.de/), I had the opportunity to enlarge my interests and word interdisciplinarly. 
 
-In 2019, I've started working in the field of Computational Linguistics at the [Fraunhofer Institut for Communication, Information Processing and Ergonomics FKIE in Wachtberg](https://www.fkie.fraunhofer.de/), where I graduated in 2021 with a dissertation with the title "Uncovering Twitter’s account closure and suspension algorithm with the help of Natural Language Processing (NLP): An investigation of the role of language in an account’s deactivation".
+In 2019, I've started working in the field of Computational Linguistics at the [Fraunhofer Institut for Communication, Information Processing and Ergonomics FKIE in Wachtberg](https://www.fkie.fraunhofer.de/), where I graduated in 2021 with a dissertation with the title "Uncovering Twitter’s account closure and suspension algorithm with the help of Natural Language Processing (NLP): An investigation of the role of language in an account’s deactivation" under the supervision of [Ulrich Schade](https://www.fraunhofer-innovisions.de/experten/ulrich-schade/) and Daniel Claeser.
 
 
 For more info
