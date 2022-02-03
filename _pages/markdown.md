@@ -17,7 +17,7 @@ Department of Language Science and Technology
 
 Saarland University
 
-
+---------------------------------------------------
 
 Fachrichtung Sprachwissenschaft und Sprachtechnologie
 
