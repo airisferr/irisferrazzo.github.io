@@ -20,9 +20,10 @@ Before coming to Saarbrücken, I did my Bachelor's and Master's of Arts at the U
 
 With a scholarship of the [Studienstiftung des Deutschen Volkes](https://www.studienstiftung.de/), I had the opportunity to enlarge my interests and word interdisciplinarly. 
 
-In 2019, I've started working in the field of Computational Linguistics at the [Fraunhofer Institut for Communication, Information Processing and Ergonomics FKIE in Wachtberg](https://www.fkie.fraunhofer.de/), where I got acquainted with what would be come my everyday work-life till 2021. In October 2021, I graduated with a dissertation with the title "Uncovering Twitter’s account closure and suspension algorithm with the help of Natural Language Processing (NLP): An investigation of the role of language in an account’s deactivation.", in which I fine-tuned a binary classification algorhytm.
+In 2019, I've started working in the field of Computational Linguistics at the [Fraunhofer Institut for Communication, Information Processing and Ergonomics FKIE in Wachtberg](https://www.fkie.fraunhofer.de/), where I graduated in 2021 with a dissertation with the title "Uncovering Twitter’s account closure and suspension algorithm with the help of Natural Language Processing (NLP): An investigation of the role of language in an account’s deactivation".
 
 
 For more info
 ------
 More info about me can be found [here](https://www.linkedin.com/in/iris-ferrazzo-6bbb0518b/).
+Outside my work in academia, I love to travel, paint, dance, and -conformly with my Italian origins- cook. 
