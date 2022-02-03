@@ -26,4 +26,7 @@ In 2019, I've started working in the field of Computational Linguistics at the [
 For more info
 ------
 More info about me can be found [here](https://www.linkedin.com/in/iris-ferrazzo-6bbb0518b/).
+
 Outside my work in academia, I love to travel, paint, dance, and -conformly with my Italian origins- cook. 
+
+
