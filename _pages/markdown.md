@@ -11,15 +11,16 @@ redirect_from:
 
 Iris Ferrazzo
 
-ferrazzo@coli.uni-saarlan.de
+iris.ferrazzo@uni-bonn.de
 
-Department of Language Science and Technology
+Bonn Center for Digital Humanities
 
-Campus C7.2
+Bonn University
 
-D-66123 Saarbrücken, Germany
+Maximilianstr. 22
 
-Saarland University
+D-53111 Bonn, Germany
+
 
 ---------------------------------------------------
 
