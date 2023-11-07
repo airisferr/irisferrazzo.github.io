@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Iris Ferrazzo - About me"
 title_separator          : "-"
 name                     : &name "Iris"
-description              : &description "PhD student in computational linguistics at [LST](https://www.uni-saarland.de/en/department/lst.html) at Saarland University."
+description              : &description "Research associate in computational linguistics at [Bonn Center for Digital Humanities](https://www.bcdh.uni-bonn.de/de) at Bonn University."
 url                      : https://irisferrazzo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Iris Ferrazzo"
   avatar           : "foto_curriculum.jpeg"
-  bio              : "PhD student in computational linguistics at LST, Saarland University"
-  location         : "Saarbrücken, Germany"
+  bio              : "Research associate in computational linguistics at Bonn Center for Digital Humanities, Bonn University"
+  location         : "Bonn, Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "ferrazzo@coli.uni-saarlan.de"
+  email            : "iris.ferrazzo@uni-bonn.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
